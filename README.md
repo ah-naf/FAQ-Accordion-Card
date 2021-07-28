@@ -1,6 +1,6 @@
 # Frontend Mentor - FAQ accordion card
 
-![Design preview for the FAQ accordion card coding challenge](./design/desktop-preview.jpg)
+[Design preview for the FAQ accordion card coding challenge](https://htmlpreview.github.io/?https://github.com/ah-naf/FAQ-Accordion-Card/blob/origin/index.html)
 
 ## Welcome! 👋
 

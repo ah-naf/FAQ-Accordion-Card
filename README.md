@@ -1,6 +1,6 @@
 # Frontend Mentor - FAQ accordion card
 
-# [Preview Link](https://htmlpreview.github.io/?https://github.com/ah-naf/FAQ-Accordion-Card/blob/origin/index.html)
+# [Preview Link](https://agitated-heyrovsky-f6c83a.netlify.app/)
 
 ![Design preview for the Sunnyside agency landing page coding challenge](./design/desktop-preview.jpg)
 
